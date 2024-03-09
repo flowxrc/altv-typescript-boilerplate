@@ -1,0 +1,25 @@
+# Announce the server in master-list
+announce = false
+# token = "MASTERLIST_TOKEN"
+
+# Allow alt:V debugging tools
+debug = true
+
+# host = "0.0.0.0"
+port = 7788
+
+# Server meta
+name = "altv-tsc"
+description = "TypeScript compiler for alt:V"
+gamemode = "freeroam"
+tags = ["freeroam"]
+language = "en"
+website = "example.com"
+players = 128
+
+# Server resources
+modules = ["js-module"] # js-bytecode-module
+resources = ["example"]
+
+# Server password
+# password = "server_private"

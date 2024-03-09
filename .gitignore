@@ -1,0 +1,14 @@
+# Server build
+dist/
+
+# Server dlcpacks
+src/resources/dlc_*/*
+!src/resources/dlc_*/stream.toml
+
+# altv-pkg
+src/server-files/*
+!src/server-files/.altvpkgrc.json
+
+# Node files
+node_modules/
+package-lock.json

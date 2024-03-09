@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "typeRoots": ["./node_modules/@types", "./node_modules/@altv", "./src/@types"],
+        "strict": true,
+        "declaration": true,
+        "lib": ["ES2015"],
+        "target": "es2017",
+        "module": "esnext"
+    },
+    "include": ["./src/**/*.ts"],
+    "exclude": ["node_modules"]
+}
