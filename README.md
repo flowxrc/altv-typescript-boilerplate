@@ -1,4 +1,4 @@
-## Aurora
+## altv-tsc
 alt:V typescript boilerplate with altv-pkg.
 ### Git-ignored files
 - All files in the resources with the `dlc_` prefix, except the `stream.toml` since the dlcpacks are large in size.
