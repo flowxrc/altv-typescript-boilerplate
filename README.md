@@ -7,7 +7,7 @@ alt:V typescript boilerplate with altv-pkg.
 ### Setup
 Open the command line, navigate to the repository folder and run.
 ```bash
-npm run install
+npm install
 ```
 Run the following command, or use the `Update Binaries.bat` script.
 ```bash
